@@ -8,8 +8,8 @@ function staticLoadPlaces() {
         {
             name: 'Spaceport',
             location: {
-                lat: 46.9958656,
-                lng: 6.9369856,
+                lat: 46.999138,
+                lng: 6.9422222,
             }
         }
     ]
