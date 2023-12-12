@@ -1,0 +1,501 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1506,
+      "max": [
+        1.245169997215271,
+        6.714282989501953,
+        13.264698028564453
+      ],
+      "min": [
+        -1.244799256324768,
+        -31.858463287353516,
+        -13.871004104614258
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18072,
+      "componentType": 5126,
+      "count": 1506,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1506,
+      "max": [
+        0.992344856262207,
+        0.9691712856292725
+      ],
+      "min": [
+        -1.4799752235412598,
+        0.012181967496871948
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2322,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36144,
+      "componentType": 5126,
+      "count": 10152,
+      "max": [
+        1.7312285900115967,
+        19.572900772094727,
+        12.439115524291992
+      ],
+      "min": [
+        -1.7308579683303833,
+        -32.394039154052734,
+        -20.863744735717773
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 157968,
+      "componentType": 5126,
+      "count": 10152,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12048,
+      "componentType": 5126,
+      "count": 10152,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.3589754104614258,
+        -2.944349527359009
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 9288,
+      "componentType": 5125,
+      "count": 17040,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 279792,
+      "componentType": 5126,
+      "count": 3080,
+      "max": [
+        1.5189964771270752,
+        20.814409255981445,
+        8.156139373779297
+      ],
+      "min": [
+        -1.5186254978179932,
+        -37.89759063720703,
+        -23.52165985107422
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 316752,
+      "componentType": 5126,
+      "count": 3080,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 93264,
+      "componentType": 5126,
+      "count": 3080,
+      "max": [
+        0.993902325630188,
+        0.992986798286438
+      ],
+      "min": [
+        -1.3724149465560913,
+        -2.319540023803711
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 77448,
+      "componentType": 5125,
+      "count": 6942,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 353712,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.23184245824813843,
+        7.316328048706055,
+        4.504303455352783
+      ],
+      "min": [
+        -0.2314283698797226,
+        5.782127380371094,
+        2.6202282905578613
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 356592,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9997693300247192,
+        1.0,
+        0.7782970666885376
+      ],
+      "min": [
+        -0.9997693300247192,
+        0.021479398012161255,
+        -0.7704136967658997
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 117904,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        -1.2712777853012085,
+        0.844140887260437
+      ],
+      "min": [
+        -1.3273916244506836,
+        0.8184840679168701
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 105216,
+      "componentType": 5125,
+      "count": 342,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Scilence (https://sketchfab.com/Scilence)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/spaceport-low-poly-19a283dbb1864d56ac9c99edaabc5314",
+      "title": "Spaceport, Low-Poly"
+    },
+    "generator": "Sketchfab-13.31.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 106584,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 119824,
+      "byteOffset": 106584,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 359472,
+      "byteOffset": 226408,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 585880,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Blue_composite",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.048911,
+          0.147374,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9611907229238034
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Mettalic_composite",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.134236,
+          0.134236,
+          0.134236,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9699839178972338
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "concrete_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.39204,
+          0.39204,
+          0.39204,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9123371910100982
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 0.7,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "Working_area",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0604489,
+          0.0604489,
+          0.0604489,
+          1.0
+        ],
+        "roughnessFactor": 0.9818465082212552
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Spaceport 24_Blue composite _0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Spaceport 24_Mettalic composite_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Spaceport 24_concrete 1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Spaceport 24_Working area_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.10000000149011612,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.2204460823375376e-17,
+        -0.10000000149011612,
+        0.0,
+        0.0,
+        0.10000000149011612,
+        2.2204460823375376e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "38f9a268574b4ea58622668060c8f3cd.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        76596.4375,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -0.00025710148070727447,
+        -1578.077636718729,
+        0.0,
+        0.0,
+        1578.077636718729,
+        -0.00025710148070727447,
+        0.0,
+        -14.196915626525879,
+        21257.013671875,
+        390837.5,
+        1.0
+      ],
+      "name": "Spaceport 24"
+    },
+    {
+      "mesh": 0,
+      "name": "Spaceport 24_Blue composite _0"
+    },
+    {
+      "mesh": 1,
+      "name": "Spaceport 24_Mettalic composite_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Spaceport 24_concrete 1_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Spaceport 24_Working area_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
