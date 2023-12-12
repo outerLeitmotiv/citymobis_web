@@ -26,7 +26,7 @@ function renderPlaces(places) {
 
         let model = document.createElement('a-entity');
         model.setAttribute('gps-entity-place', `latitude: ${latitude}; longitude: ${longitude};`);
-        model.setAttribute('gltf-model', './assets/house/scene.gltf');
+        model.setAttribute('gltf-model', './assets/dino.glb');
         model.setAttribute('scale', '1 1 1');
 
         model.addEventListener('loaded', () => {
