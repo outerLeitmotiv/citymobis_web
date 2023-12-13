@@ -20,9 +20,10 @@
             arjs='sourceType: webcam;
             sourceWidth:1280; sourceHeight:960;
             displayWidth: 1280; displayHeight: 960;
-            debugUIEnabled: false;'>
+            debugUIEnabled: false;'
+            >
 
-        <a-camera gps-camera rotation-reader></a-camera>
+        <a-camera gps-new-camera='gpsMinDistance: 1' rotation-reader></a-camera>
     </a-scene>
 </body>
 
