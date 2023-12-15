@@ -8,14 +8,12 @@ function staticLoadPlaces() {
         {
             name: 'Spaceport',
             location: {
-                lat: 46.998346,
-                lng: 6.941704,
+                lat: 46.998397,
+                lng: 6.942104,
             }
         }
     ]
 }
-
-
 
 function renderPlaces(places) {
     let scene = document.querySelector('a-scene');
@@ -27,7 +25,7 @@ function renderPlaces(places) {
         let model = document.createElement('a-entity');
         model.setAttribute('gps-entity-place', `latitude: ${latitude}; longitude: ${longitude};`);
         model.setAttribute('gltf-model', './assets/house/scene.gltf');
-        model.setAttribute('scale', '1 1 1');
+        model.setAttribute('scale', '1.5 1.5 1.5');
 
         model.addEventListener('loaded', () => {
             window.dispatchEvent(new CustomEvent('gps-entity-place-loaded'))
