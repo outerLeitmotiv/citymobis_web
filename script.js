@@ -6,10 +6,10 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            name: 'Spaceport',
+            name: 'House',
             location: {
-                lat: 46.998397,
-                lng: 6.942104,
+                lat: 46.54981,
+                lng: 6.550092,
             }
         }
     ]
